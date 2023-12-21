@@ -13,28 +13,25 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+Welcome to the repository for our cutting-edge football analytics project! This endeavor was inspired by a deep-seated passion for the beautiful game and an unquenchable curiosity about the intricate dynamics that define it. In a world where data is king, we recognized an untapped potential in harnessing advanced analytics to unravel the mysteries of football. Our goal is to delve beyond traditional statistics:
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
+Question 1) Can we measure the impact on individual players on a teams success rate and use it as a metric for scouting promising players
+Question 2) Is there an impact on a teams age distribution on the success rate
+Question/Task 3) What are the most relevant attributes on a player's market valuation and can we derive a prediction model for the market value.
 
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
+Through rigorous data analysis and innovative approaches, we aim to uncover insights that could revolutionize our understanding of player performance and team strategy. Whether you're a data enthusiast, a football fan, or both, we invite you to join us on this exciting journey as we decode the secrets of the game.
 
 
 ## File Descriptions <a name="files"></a>
 
 There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+In the Data Files folder you will find the relevant csv files that were used for this analysis. However due to files size limitations I had to shorten some of the files (namely: appearances.csv, game_events.csv, player_valuations.csv. Therefore if you perform the same analysis with the provided data sets you will receive different results. For current data you can visit the github repo of dcaribou mentioned below.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available here: https://medium.com/@vrahts_22290/mastering-the-beautiful-game-unveiling-the-secrets-of-player-impact-age-dynamics-and-market-a0f628522371
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
-
+Must give credit to Transfermarkt.de and to dcaribou for the github repo: https://github.com/dcaribou/transfermarkt-datasets/blob/master/README.md for retrieving the data.
