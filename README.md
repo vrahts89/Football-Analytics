@@ -26,7 +26,7 @@ Through rigorous data analysis and innovative approaches, we aim to uncover insi
 
 There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-In the Data Files folder you will find the relevant csv files that were used for this analysis. However due to files size limitations I had to shorten some of the files (namely: appearances.csv, game_events.csv, player_valuations.csv. Therefore if you perform the same analysis with the provided data sets you will receive different results. For current data you can visit the github repo of dcaribou mentioned below.
+In the Data Files folder you will find the relevant csv files that were used for this analysis. However due to files size limitations I had to shorten some of the files (namely: appearances.csv, game_events.csv, player_valuations.csv. Therefore if you perform the same analysis with the provided data sets you will receive different results. For current data you can visit the github repo of dcaribou mentioned below. The large files can be downloaded here: https://file.io/sGOev9xLSRi7
 
 ## Results<a name="results"></a>
 
